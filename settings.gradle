@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Mobile Development"
-include ':app'
+include ':lab1'
