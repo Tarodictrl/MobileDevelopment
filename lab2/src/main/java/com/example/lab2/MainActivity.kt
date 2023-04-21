@@ -16,7 +16,16 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var countryList: ListView
     private var countries = ArrayList<Country>()
-    private val countriesName = arrayListOf("Россия", "США", "Казахстан", "Китай", "Япония")
+    private val countriesName = arrayListOf(
+        "Россия",
+        "Люксембург",
+        "Казахстан",
+        "Испания",
+        "Япония",
+        "Кипр",
+        "Беларусь",
+        "Уганда"
+    )
     private val client = OkHttpClient()
 
     override fun onCreate(savedInstanceState: Bundle?) {
