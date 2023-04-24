@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="calculate">Calculate</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="miles">Miles</string>
+    <string name="километры">Километры</string>
+    <string name="мили">Мили</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+</resources>
